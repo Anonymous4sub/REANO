@@ -11,6 +11,12 @@ Further details about REANO can be found in our paper.
 * scipy 1.10.1 
 * Spacy 3.4.0
 
+## File Structure:
+project-root/
+├── common/               # to store datasets and models
+├── src/                  # Data processing, evaluation and other untils
+├───── main.py            # train and evaluate the model.
+
 ## Run the demo
 
 <!-- To perform semi-supervised object classification on Cora dataset, run the following command: -->
