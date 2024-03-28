@@ -13,8 +13,11 @@ Further details about REANO can be found in our paper.
 
 ## File Structure:
 project-root/
+
 ├── common/               # to store datasets and models
+
 ├── src/                  # Data processing, evaluation and other untils
+
 ├───── main.py            # train and evaluate the model.
 
 ## Run the demo
