@@ -12,13 +12,12 @@ Further details about REANO can be found in our paper.
 * Spacy 3.4.0
 
 ## File Structure:
+```bash
 project-root/
-
 ├── common/               # to store datasets and models
-
 ├── src/                  # Data processing, evaluation and other untils
-
 ├───── main.py            # train and evaluate the model.
+```
 
 ## Run the demo
 
